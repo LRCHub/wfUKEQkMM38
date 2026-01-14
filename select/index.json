@@ -1,0 +1,104 @@
+{
+  "version": 1,
+  "base_track": "A Smile And A Ribbon",
+  "base_artist": "Patience & Prudence",
+  "createdAt": "2026-01-14T03:18:57.603542Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "A SMILE AND A RIBBON",
+      "artist": "Patience & Prudence",
+      "has_synced": true,
+      "path": "select/01_A_SMILE_AND_A_RIBBON_Patience_&_Prudence.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "A Smile and a Ribbon",
+      "artist": "Song, Patience",
+      "has_synced": true,
+      "path": "select/02_A_Smile_and_a_Ribbon_Song,_Patience.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "A Smile And A Ribbon",
+      "artist": "Patience",
+      "has_synced": true,
+      "path": "select/03_A_Smile_And_A_Ribbon_Patience.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "A Smile And A Ribbon",
+      "artist": "Patience And Prudence",
+      "has_synced": true,
+      "path": "select/04_A_Smile_And_A_Ribbon_Patience_And_Prudence.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "A Smile and a Ribbon",
+      "artist": "Patience, Prudence",
+      "has_synced": true,
+      "path": "select/05_A_Smile_and_a_Ribbon_Patience,_Prudence.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "A Smile And A Ribbon",
+      "artist": "Century Jukebox",
+      "has_synced": false,
+      "path": "select/06_A_Smile_And_A_Ribbon_Century_Jukebox.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "A Smile And A Ribbon (Paused)",
+      "artist": "Patience & Prudence",
+      "has_synced": true,
+      "path": "select/07_A_Smile_And_A_Ribbon_(Paused)_Patience_&_Prudence.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "With A Smile And A Song",
+      "artist": "Adriana Caselotti",
+      "has_synced": false,
+      "path": "select/08_With_A_Smile_And_A_Song_Adriana_Caselotti.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Animal Friends / With a Smile and a Song",
+      "artist": "Adriana Caselotti",
+      "has_synced": true,
+      "path": "select/09_Animal_Friends___With_a_Smile_and_a_Song_Adriana_Caselotti.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "With a Smile and a Song",
+      "artist": "Snow White",
+      "has_synced": true,
+      "path": "select/10_With_a_Smile_and_a_Song_Snow_White.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Animal Friends / With A Smile And A Song",
+      "artist": "Adriana Caselotti",
+      "has_synced": true,
+      "path": "select/11_Animal_Friends___With_A_Smile_And_A_Song_Adriana_Caselotti.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "A Smile and a Ribbon",
+      "artist": "Patience & Prudence",
+      "has_synced": false,
+      "path": "select/pl_01_A_Smile_and_a_Ribbon_Patience_&_Prudence.txt"
+    }
+  ]
+}
